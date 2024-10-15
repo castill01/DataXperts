@@ -1,0 +1,4 @@
+
+Some of the tools found useful in analyzing the Dognition data set were Tableau and SQL.
+tools to identify any related sources that can increase the completed dognition tests. 
+Our team will be using the Jupyter notebook and Python language to further analyze and communicate our team's findings regarding the questions provided for the Dognition data set. 
