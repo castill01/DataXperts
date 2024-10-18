@@ -1,1 +1,1 @@
-This is just a test file to allow me to push the branch
+This is the connection that should guide you to pulling the data into a python data frame.  Remember to change your directory.  If you are not sure how to pull the Dognition data down .. Go to our shared doc file and follow the directions: https://docs.google.com/document/d/1woqNeWabg1lMz1IbmV0jP82qBE1M0rxKDrMW59QFrBE/edit?usp=sharing
