@@ -1,0 +1,7 @@
+Some of the tools provided that I had found useful in analyzing the Dognition data set was SQL and Excel, which helped in organizing and arranging the data sets and provided the tools to identify any related sources that can increase the completed dognition tests related to the owners of tested dogs. 
+After exploring the Dognition data sets, something I found interesting regarded the breeds of dogs being mixed. 
+Some of the dogs with known mixed breeds are classified with either one breed or the other alphabetically, in order to not duplicate. 
+Some dogs are just stated to be mixed and are a part of a broader and undefineable group. 
+I am interested in finding out how the behavior and test results performed by the mixed-dog breeds category compare to the behaviors and test scores gathered from other dog breeds and how their owners impact these scores. 
+Our team will be using the Jupyter notebook and Python language to further analyze and communicate our team's findings regarding the questions provided for the Dognition data set.
+-Isabella Barboza
