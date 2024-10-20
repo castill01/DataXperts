@@ -1,4 +1,4 @@
+Dognition is a dog training application that offers a subscription-based product to dog owners to help in training their dogs with different tests at various levels. The ultimate goal of this project is to identify any possible source that increases the number of Dognition tests completed.
 
-Some of the tools found useful in analyzing the Dognition data set were Tableau and SQL.
-tools to identify any related sources that can increase the completed dognition tests. 
-Our team will be using the Jupyter notebook and Python language to further analyze and communicate our team's findings regarding the questions provided for the Dognition data set. 
+Group 2: DataXperts will use the tools jupyter notebook and Python language to identify correlated sources that can increase completed dognition tests. 
+We will analyze and communicate our team's findings regarding the questions provided for the Dognition data set. 
