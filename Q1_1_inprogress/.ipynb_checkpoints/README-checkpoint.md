@@ -1,0 +1,1 @@
+Using Python to answer question 1 part 1. Code on Python to show a graph that compares different dognition personality dimensions.
